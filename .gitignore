@@ -1,0 +1,12 @@
+# Project exclude paths
+/java-practice-main/Arrays/target/
+/java-practice-main/Exception-Handling/target/
+/java-practice-main/IDBC-Practice/target/
+/java-practice-main/Interface-practice/target/
+/java-practice-main/Java9To17NewFeatures/target/
+/java-practice-main/Practice/target/
+/java-practice-main/Practice-2/target/
+/java-practice-main/SpringSecurity/target/
+/java-practice-main/SreamApiPractice/target/
+/java-practice-main/Strings/target/
+/java-practice-main/Threads-practice/target/

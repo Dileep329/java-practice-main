@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Practice-2" />
+        <module name="SreamApiPractice" />
+        <module name="SpringSecurity" />
+        <module name="Threads-practice" />
+        <module name="Java9To17NewFeatures" />
+        <module name="Practice" />
+        <module name="IDBC-Practice" />
+        <module name="Exception-Handling" />
+        <module name="Interface-practice" />
+        <module name="Arrays" />
+        <module name="Strings" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Arrays" options="-parameters" />
+      <module name="Exception-Handling" options="-parameters" />
+      <module name="IDBC-Practice" options="-parameters" />
+      <module name="Interface-practice" options="-parameters" />
+      <module name="Java9To17NewFeatures" options="-parameters" />
+      <module name="Practice" options="-parameters" />
+      <module name="Practice-2" options="-parameters" />
+      <module name="SpringSecurity" options="-parameters" />
+      <module name="SreamApiPractice" options="-parameters" />
+      <module name="Strings" options="-parameters" />
+      <module name="Threads-practice" options="-parameters" />
+    </option>
+  </component>
+</project>
